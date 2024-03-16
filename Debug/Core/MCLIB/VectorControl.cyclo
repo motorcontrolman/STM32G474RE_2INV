@@ -1,0 +1,13 @@
+VectorControl.c:50:6:VectorControlTasks	2
+VectorControl.c:98:6:OpenLoopTasks	1
+VectorControl.c:129:13:uvw2ab	1
+VectorControl.c:135:13:ab2uvw	1
+VectorControl.c:141:13:ab2dq	1
+VectorControl.c:150:14:calcAmpFromVect	1
+VectorControl.c:159:14:calcModFromVamp	1
+VectorControl.c:166:13:dq2ab	1
+VectorControl.c:175:13:Vuvw2Duty	5
+VectorControl.c:217:20:Vuvw2DutyforOpenWinding	1
+VectorControl.c:232:13:CurrentFbControl	2
+VectorControl.c:271:14:FluxObserver	1
+VectorControl.c:283:13:calcElectAngleEstimate	2
